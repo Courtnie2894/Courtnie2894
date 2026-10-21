@@ -6,10 +6,10 @@
 
 Founder and CEO of **[In Virtualis](https://invirtualis.ai)** -- building CARLA, the intent layer between a brain-computer interface and the world. You decide where to go; CARLA decides how to get there.
 
-- 🎓 PhD in Neural Engineering and Data Science; neuroscience and applied physics before that
+- 🎓 PhD in Bioengineering (neural engineering focus) with the Data Science option, plus a graduate certificate in Neural Computation and Engineering -- all at the University of Washington
 - 🥽 Built one of the first bidirectional VR-BCIs: neural control plus neurohaptic touch, straight from virtual reality to the brain
 - 🏆 Recognized by the International BCI Award, and Blackrock Neurotech's SfN 2023 Student Travel Award
-- ✈️ Naval Academy and military flight training, then medical school, then startups
+- ✈️ Naval Academy and military flight training, then medical school through MS3, then startups
 - 🧠 Working on brain-computer interfaces, embodied AI and XR, backed by the National Science Foundation
 - 🌱 Advising the CO₂Rail platform
 - 🤝 Open to speaking, mentoring, and advisory roles -- reach me on [LinkedIn](https://www.linkedin.com/in/cpaschall)
