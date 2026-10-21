@@ -1,0 +1,18 @@
+<div align="center">
+  <a href="https://invirtualis.ai"><img src="https://img.shields.io/badge/invirtualis.ai-1a1a1a?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/cpaschall"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <h2>Hi, I'm Courtnie 👋</h2>
+</div>
+
+Founder and CEO of **[In Virtualis](https://invirtualis.ai)** -- building CARLA, the intent layer between a brain-computer interface and the world. You decide where to go; CARLA decides how to get there.
+
+- 🎓 PhD in Bioengineering and Data Science; neuroscience and applied physics before that
+- ✈️ Naval Academy and military flight training, then medical school, then startups
+- 🧠 Working on brain-computer interfaces, embodied AI and XR, backed by the National Science Foundation
+- 🤝 Open to speaking, mentoring, and advisory roles -- reach me on [LinkedIn](https://www.linkedin.com/in/cpaschall)
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,unity,cs,swift,git,github,linux,gcp,vscode" />
+
+<img src="https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=flat&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Omniverse-76B900?style=flat&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" />
