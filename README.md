@@ -7,6 +7,7 @@
 Founder and CEO of **[In Virtualis](https://invirtualis.ai)** -- building CARLA, the intent layer between a brain-computer interface and the world. You decide where to go; CARLA decides how to get there.
 
 - 🎓 PhD in Bioengineering (neural engineering focus) with the Data Science option, plus a graduate certificate in Neural Computation and Engineering -- all at the University of Washington
+- 🔭 Undergraduate degrees in Applied Physics and Neuroscience from the University of Colorado Boulder
 - 🥽 Built one of the first bidirectional VR-BCIs: neural control plus neurohaptic touch, straight from virtual reality to the brain
 - 🏆 Recognized by the International BCI Award, and Blackrock Neurotech's SfN 2023 Student Travel Award
 - ✈️ Naval Academy and military flight training, then medical school through MS3, then startups
