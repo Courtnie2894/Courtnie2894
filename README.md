@@ -7,7 +7,7 @@
 Founder and CEO of **[In Virtualis](https://invirtualis.ai)** -- building CARLA, the intent layer between a brain-computer interface and the world. You decide where to go; CARLA decides how to get there.
 
 - 🎓 PhD in Bioengineering (neural engineering focus) with the Data Science option, plus a graduate certificate in Neural Computation and Engineering -- all at the University of Washington
-- 🔭 Undergraduate degrees in Applied Physics and Neuroscience from the University of Colorado Boulder
+- 🔭 Physics at the U.S. Naval Academy; Neuroscience (pre-med) with an Electrical Engineering minor at the University of Colorado Boulder -- summa cum laude and the College of Arts and Sciences' Outstanding Graduate
 - 🥽 Built one of the first bidirectional VR-BCIs: neural control plus neurohaptic touch, straight from virtual reality to the brain
 - 🏆 Recognized by the International BCI Award, and Blackrock Neurotech's SfN 2023 Student Travel Award
 - ✈️ Naval Academy and military flight training, then medical school through MS3, then startups
@@ -17,6 +17,6 @@ Founder and CEO of **[In Virtualis](https://invirtualis.ai)** -- building CARLA,
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,unity,cs,swift,git,github,linux,gcp,vscode" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,unity,cs,swift,git,github,linux,gcp,vscode,obsidian" />
 
 <img src="https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=flat&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Omniverse-76B900?style=flat&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" />
